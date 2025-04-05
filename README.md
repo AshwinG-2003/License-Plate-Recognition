@@ -1,9 +1,7 @@
 # License-Plate-Recognition-YOLOv8
 ## Demo
 
-https://github.com/Muhammad-Zeerak-Khan/Automatic-License-Plate-Recognition-using-YOLOv8/assets/79400407/1af57131-3ada-470a-b798-95fff00254e6
-
-[Watch Video here ] https://drive.google.com/file/d/1VV6Cz2oBJHI3RPs49qzj0cMmlZIXfVfK/view?usp=sharing
+[Watch Video here] https://drive.google.com/file/d/1VV6Cz2oBJHI3RPs49qzj0cMmlZIXfVfK/view?usp=sharing
 
 
 ## Data
