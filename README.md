@@ -1,7 +1,7 @@
 # License-Plate-Recognition-YOLOv8
 ## Demo
-
-[Watch Video here] https://drive.google.com/file/d/1VV6Cz2oBJHI3RPs49qzj0cMmlZIXfVfK/view?usp=sharing
+Please click on the image below to watch the demonstration video:
+[![Watch Video here](https://github.com/user-attachments/assets/eb22af64-b79a-472b-9a1c-6f1c99af03c8)](https://drive.google.com/file/d/1VV6Cz2oBJHI3RPs49qzj0cMmlZIXfVfK/view?usp=sharing)
 
 
 ## Data
